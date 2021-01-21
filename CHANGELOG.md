@@ -1,3 +1,14 @@
+## 0.0.6+6
+### Updates
+[UPDATE] Homepage URL.
+
+## 0.0.6+5
+### New Features
+[ADD] Message encrypted.
+
+### Updates
+[UPDATE] format code.
+
 ## 0.0.5+5
 [ADD] Message toJson method.
 
